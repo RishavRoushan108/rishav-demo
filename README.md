@@ -1,2 +1,2 @@
 # rishav-demo
-this is demo to learn git and git hub
+this is demo to learn git and git hub.
